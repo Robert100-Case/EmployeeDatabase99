@@ -14,7 +14,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage":"https://robert100-case.github.io/EmployeeDatabase99"
+  "homepage":"https://robert100-case.github.io/EmployeeDatabase99",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
